@@ -28,7 +28,7 @@ Para busca dessas informações foi utilizada a [API Mercado Bitcoin](https://ww
 ##### Clique na imagem para visualizar a página:
 
 
-[<img src="site.png" alt="site" width="70%"/>](https://consulta-criptomoeda.claudinha.repl.co/)
+[<img src="site.png" alt="site" width="80%"/>](https://consulta-criptomoeda.claudinha.repl.co/)
 
 &nbsp;
 
