@@ -13,15 +13,9 @@ Para esse projeto foi criado um site que mostra as seguintes informações de al
 
 Para busca dessas informações foi utilizada a [API Mercado Bitcoin](https://www.mercadobitcoin.com.br/api-doc/).
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-
-### ⚒️  Tecnologias 
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 &nbsp;
 
